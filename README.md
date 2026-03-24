@@ -66,7 +66,7 @@
   
   | 组件 | 功能说明 |
   |------|----------|
-  | `mvvm.Binding` | 自动识别 Label、Sprite、EditBox 等组件，设置对应的数据属性和绑定方式，支持在编辑器实时预览数据变化效果 |
+  | `mvvm.Binding` | 自动识别 Label、Sprite、EditBox、Button、Toggle、Slider 等组件，设置对应的数据属性和绑定方式，支持在编辑器实时预览数据变化效果 |
   | `mvvm.DataContext` | 绑定数据对象，使子节点能够访问和绑定数据属性 |
   | `mvvm.ItemsSource` | 绑定数据集合，使列表组件能够动态生成和更新列表项 |
 
