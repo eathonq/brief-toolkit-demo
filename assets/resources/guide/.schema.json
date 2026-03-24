@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": ".schema.json",
+  "title": "guide task schema",
+  "type": "object",
+  "required": [
+    "key",
+    "steps"
+  ],
+  "properties": {
+    "key": {
+      "type": "string",
+      "title": "任务标识"
+    },
+    "steps": {
+      "type": "array",
+      "title": "步骤列表",
+      "items": {
+        "type": "object",
+        "title": "步骤对象",
+        "required": [
+          "target"
+        ],
+        "properties": {
+          "target": {
+            "type": "string",
+            "title": "目标节点路径"
+          },
+          "title": {
+            "type": "string",
+            "title": "步骤标题（可选）"
+          },
+          "description": {
+            "type": "string",
+            "title": "步骤描述（可选）"
+          },
+          "eventData": {
+            "type": "object",
+            "title": "步骤事件数据（可选）"
+          }
+        }
+      }
+    }
+  }
+}

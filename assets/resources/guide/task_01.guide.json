@@ -1,0 +1,30 @@
+{
+  "$schema": ".schema.json",
+  "key": "task_01",
+  "steps": [
+    {
+      "target": "ViewGuideDemo>Label"
+    },
+    {
+      "target": "ViewGuideDemo>Sprite"
+    },
+    {
+      "target": "ViewGuideDemo>Button"
+    },
+    {
+      "target": "ViewGuideDemo>EditBox"
+    },
+    {
+      "target": "ViewGuideDemo>ProgressBar"
+    },
+    {
+      "target": "ViewGuideDemo>Slider"
+    },
+    {
+      "target": "ViewGuideDemo>Toggle"
+    },
+    {
+      "target": "ViewGuideDemo>PageView"
+    }
+  ]
+}

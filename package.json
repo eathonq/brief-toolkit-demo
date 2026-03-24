@@ -1,0 +1,11 @@
+{
+  "name": "brief-toolkit-demo",
+  "uuid": "e5ea93df-eadd-46b5-af45-3be8b48e0863",
+  "creator": {
+    "version": "3.8.8",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {}
+  }
+}

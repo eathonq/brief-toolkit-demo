@@ -1,0 +1,349 @@
+{
+  "defaultThemeKey": "1",
+  "themes": [
+    {
+      "theme": {
+        "key": "1",
+        "name": "等级1"
+      },
+      "items": [
+        {
+          "key": "0",
+          "name": "类型0",
+          "image": "images/goods/i_0_1",
+          "order": 0
+        },
+        {
+          "key": "1",
+          "name": "类型1",
+          "image": "images/goods/i_1_1",
+          "order": 1
+        },
+        {
+          "key": "2",
+          "name": "类型2",
+          "image": "images/goods/i_2_1",
+          "order": 2
+        },
+        {
+          "key": "3",
+          "name": "类型3",
+          "image": "images/goods/i_3_1",
+          "order": 3
+        },
+        {
+          "key": "4",
+          "name": "类型4",
+          "image": "images/goods/i_4_1",
+          "order": 4
+        },
+        {
+          "key": "5",
+          "name": "类型5",
+          "image": "images/goods/i_5_1",
+          "order": 5
+        },
+        {
+          "key": "6",
+          "name": "类型6",
+          "image": "images/goods/i_6_1",
+          "order": 6
+        },
+        {
+          "key": "7",
+          "name": "类型7",
+          "image": "images/goods/i_7_1",
+          "order": 7
+        },
+        {
+          "key": "8",
+          "name": "类型8",
+          "image": "images/goods/i_8_1",
+          "order": 8
+        },
+        {
+          "key": "9",
+          "name": "类型9",
+          "image": "images/goods/i_9_1",
+          "order": 9
+        },
+        {
+          "key": "10",
+          "name": "类型10",
+          "image": "images/goods/i_10_1",
+          "order": 10
+        },
+        {
+          "key": "11",
+          "name": "类型11",
+          "image": "images/goods/i_11_1",
+          "order": 11
+        },
+        {
+          "key": "12",
+          "name": "类型12",
+          "image": "images/goods/i_12_1",
+          "order": 12
+        }
+      ]
+    },
+    {
+      "theme": {
+        "key": "2",
+        "name": "等级2"
+      },
+      "items": [
+        {
+          "key": "0",
+          "name": "类型0",
+          "image": "images/goods/i_0_2",
+          "order": 0
+        },
+        {
+          "key": "1",
+          "name": "类型1",
+          "image": "images/goods/i_1_2",
+          "order": 1
+        },
+        {
+          "key": "2",
+          "name": "类型2",
+          "image": "images/goods/i_2_2",
+          "order": 2
+        },
+        {
+          "key": "3",
+          "name": "类型3",
+          "image": "images/goods/i_3_2",
+          "order": 3
+        },
+        {
+          "key": "4",
+          "name": "类型4",
+          "image": "images/goods/i_4_2",
+          "order": 4
+        },
+        {
+          "key": "5",
+          "name": "类型5",
+          "image": "images/goods/i_5_2",
+          "order": 5
+        },
+        {
+          "key": "6",
+          "name": "类型6",
+          "image": "images/goods/i_6_2",
+          "order": 6
+        },
+        {
+          "key": "7",
+          "name": "类型7",
+          "image": "images/goods/i_7_2",
+          "order": 7
+        },
+        {
+          "key": "8",
+          "name": "类型8",
+          "image": "images/goods/i_8_2",
+          "order": 8
+        },
+        {
+          "key": "9",
+          "name": "类型9",
+          "image": "images/goods/i_9_2",
+          "order": 9
+        },
+        {
+          "key": "10",
+          "name": "类型10",
+          "image": "images/goods/i_10_2",
+          "order": 10
+        },
+        {
+          "key": "11",
+          "name": "类型11",
+          "image": "images/goods/i_11_2",
+          "order": 11
+        },
+        {
+          "key": "12",
+          "name": "类型12",
+          "image": "images/goods/i_12_2",
+          "order": 12
+        }
+      ]
+    },
+    {
+      "theme": {
+        "key": "3",
+        "name": "等级3"
+      },
+      "items": [
+        {
+          "key": "0",
+          "name": "类型0",
+          "image": "images/goods/i_0_3",
+          "order": 0
+        },
+        {
+          "key": "1",
+          "name": "类型1",
+          "image": "images/goods/i_1_3",
+          "order": 1
+        },
+        {
+          "key": "2",
+          "name": "类型2",
+          "image": "images/goods/i_2_3",
+          "order": 2
+        },
+        {
+          "key": "3",
+          "name": "类型3",
+          "image": "images/goods/i_3_3",
+          "order": 3
+        },
+        {
+          "key": "4",
+          "name": "类型4",
+          "image": "images/goods/i_4_3",
+          "order": 4
+        },
+        {
+          "key": "5",
+          "name": "类型5",
+          "image": "images/goods/i_5_3",
+          "order": 5
+        },
+        {
+          "key": "6",
+          "name": "类型6",
+          "image": "images/goods/i_6_3",
+          "order": 6
+        },
+        {
+          "key": "7",
+          "name": "类型7",
+          "image": "images/goods/i_7_3",
+          "order": 7
+        },
+        {
+          "key": "8",
+          "name": "类型8",
+          "image": "images/goods/i_8_3",
+          "order": 8
+        },
+        {
+          "key": "9",
+          "name": "类型9",
+          "image": "images/goods/i_9_3",
+          "order": 9
+        },
+        {
+          "key": "10",
+          "name": "类型10",
+          "image": "images/goods/i_10_3",
+          "order": 10
+        },
+        {
+          "key": "11",
+          "name": "类型11",
+          "image": "images/goods/i_11_3",
+          "order": 11
+        },
+        {
+          "key": "12",
+          "name": "类型12",
+          "image": "images/goods/i_12_3",
+          "order": 12
+        }
+      ]
+    },
+    {
+      "theme": {
+        "key": "4",
+        "name": "等级4"
+      },
+      "items": [
+        {
+          "key": "0",
+          "name": "类型0",
+          "image": "images/goods/i_0_4",
+          "order": 0
+        },
+        {
+          "key": "1",
+          "name": "类型1",
+          "image": "images/goods/i_1_4",
+          "order": 1
+        },
+        {
+          "key": "2",
+          "name": "类型2",
+          "image": "images/goods/i_2_4",
+          "order": 2
+        },
+        {
+          "key": "3",
+          "name": "类型3",
+          "image": "images/goods/i_3_4",
+          "order": 3
+        },
+        {
+          "key": "4",
+          "name": "类型4",
+          "image": "images/goods/i_4_4",
+          "order": 4
+        },
+        {
+          "key": "5",
+          "name": "类型5",
+          "image": "images/goods/i_5_4",
+          "order": 5
+        },
+        {
+          "key": "6",
+          "name": "类型6",
+          "image": "images/goods/i_6_4",
+          "order": 6
+        },
+        {
+          "key": "7",
+          "name": "类型7",
+          "image": "images/goods/i_7_4",
+          "order": 7
+        },
+        {
+          "key": "8",
+          "name": "类型8",
+          "image": "images/goods/i_8_4",
+          "order": 8
+        },
+        {
+          "key": "9",
+          "name": "类型9",
+          "image": "images/goods/i_9_4",
+          "order": 9
+        },
+        {
+          "key": "10",
+          "name": "类型10",
+          "image": "images/goods/i_10_4",
+          "order": 10
+        },
+        {
+          "key": "11",
+          "name": "类型11",
+          "image": "images/goods/i_11_4",
+          "order": 11
+        },
+        {
+          "key": "12",
+          "name": "类型12",
+          "image": "images/goods/i_12_4",
+          "order": 12
+        }
+      ]
+    }
+  ]
+}
