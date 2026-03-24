@@ -2,8 +2,8 @@ import { _decorator, Component, Node } from 'cc';
 import { I18n } from 'db://brief-toolkit-plugin/i18n';
 const { ccclass, property } = _decorator;
 
-@ccclass('ViewBComponent')
-export class ViewBComponent extends Component {
+@ccclass('ViewI18nDemoComponent')
+export class ViewI18nDemoComponent extends Component {
     start() {
 
     }

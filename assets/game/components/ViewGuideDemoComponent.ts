@@ -4,8 +4,8 @@ const { ccclass, property } = _decorator;
 
 const GUIDE_MASK_CLICK_ICON = "GUIDE_MASK_CLICK_ICON";
 
-@ccclass('ViewDComponent')
-export class ViewDComponent extends Component {
+@ccclass('ViewGuideDemoComponent')
+export class ViewGuideDemoComponent extends Component {
 
   @property({
     type: Prefab,

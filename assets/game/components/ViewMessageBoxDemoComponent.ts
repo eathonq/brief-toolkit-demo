@@ -2,18 +2,18 @@ import { _decorator, Component, EditBox, Node } from 'cc';
 import { MessageBox, MessageBoxButtons, MessageBoxResult, Tooltip } from 'db://brief-toolkit-plugin/uim';
 const { ccclass, property } = _decorator;
 
-@ccclass('ViewAComponent')
-export class ViewAComponent extends Component {
+@ccclass('ViewMessageBoxDemoComponent')
+export class ViewMessageBoxDemoComponent extends Component {
   @property(EditBox)
   editBox: EditBox = null;
 
   start() {
     if (!this.editBox) {
-      console.error('ViewAComponent: editBox is not assigned');
+      console.error('ViewMessageBoxDemoComponent: editBox is not assigned');
       return;
     }
 
-    this.editBox.string = 'Hello, this is View A!';
+    this.editBox.string = 'Hello, this is ViewMessageBoxDemoComponent!';
   }
 
   update(deltaTime: number) {
