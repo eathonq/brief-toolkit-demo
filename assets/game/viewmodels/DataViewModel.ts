@@ -202,3 +202,8 @@ export class DataViewModel implements mvvm.IViewModel {
     this.modelList.splice(_start, _deleteCount, ...items);
   }
 }
+
+// EDITOR 阶段显示数据使用
+// const temp = new DataViewModel();
+// temp.strData = 'Set Editor';
+// mvvm.SetEditor(temp);

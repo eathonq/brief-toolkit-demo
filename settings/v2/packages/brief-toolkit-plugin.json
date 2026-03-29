@@ -1,0 +1,46 @@
+{
+  "__version__": "1.0.0",
+  "i18nPanelState": {
+    "resourceDir": "i18n",
+    "templateLocale": {
+      "fileName": "en.json",
+      "content": {
+        "$schema": ".schema.json",
+        "meta": {
+          "code": "en",
+          "name": "English",
+          "version": "1.0.0"
+        },
+        "common": {
+          "confirm": "Confirm",
+          "cancel": "Cancel",
+          "loading": "Loading..."
+        },
+        "menu": {
+          "home": "Home",
+          "settings": "Settings",
+          "profile": "Profile"
+        },
+        "errors": {
+          "network": "Network Error",
+          "timeout": "Connection Timeout"
+        },
+        "args": {
+          "welcome": "Welcome to {0}!",
+          "score": "Your score is {0} points"
+        },
+        "format": {
+          "date": "YYYY-MM-DD",
+          "time": "HH:mm"
+        },
+        "image": {
+          "home": "home",
+          "start": "start"
+        }
+      }
+    }
+  },
+  "guidePanelState": {
+    "resourceDir": "guide"
+  }
+}
