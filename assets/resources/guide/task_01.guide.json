@@ -3,28 +3,76 @@
   "key": "task_01",
   "steps": [
     {
-      "target": "ViewGuideDemo>Label"
+      "target": "ViewGuideDemo>Label",
+      "focus": { "shape": "circle" },
+      "dialog": {
+        "title": "步骤：一",
+        "description": "请点击这个标签"
+      }
     },
     {
-      "target": "ViewGuideDemo>Sprite"
+      "target": "ViewGuideDemo>Sprite",
+      "focus": { "shape": "ellipse" },
+      "dialog": {
+        "title": "步骤：二",
+        "description": "请点击这个图片"
+      },
+      "pointer": false
     },
     {
-      "target": "ViewGuideDemo>Button"
+      "target": "ViewGuideDemo>Button",
+      "focus": { "shape": "rectangle" },
+      "dialog": {
+        "title": "步骤：三",
+        "description": "请点击这个按钮"
+      }
     },
     {
-      "target": "ViewGuideDemo>EditBox"
+      "target": "ViewGuideDemo>EditBox",
+      "dialog": {
+        "title": "步骤：四",
+        "description": "请输入文本（不能为空）"
+      },
+      "condition": { "type": "property_equal", "params": { "property": "string", "operator": "notEmpty" } }
     },
     {
-      "target": "ViewGuideDemo>ProgressBar"
+      "target": "ViewGuideDemo>ProgressBar",
+      "dialog": {
+        "title": "步骤：五",
+        "description": "请点击这个进度条"
+      }
     },
     {
-      "target": "ViewGuideDemo>Slider"
+      "target": "ViewGuideDemo>Slider",
+      "dialog": {
+        "title": "步骤：六",
+        "description": "请调节这个滑动条大于 60%"
+      },
+      "condition": { "type": "property_equal", "params": { "property": "progress", "value": 0.6, "operator": "gte" } }
     },
     {
-      "target": "ViewGuideDemo>Toggle"
+      "target": "ViewGuideDemo>Toggle",
+      "dialog": {
+        "title": "步骤：七",
+        "description": "请勾选这个开关"
+      },
+      "condition": { "type": "property_equal", "params": { "property": "isChecked", "value": true } }
     },
     {
-      "target": "ViewGuideDemo>PageView"
+      "target": "ViewGuideDemo>ToggleGroup",
+      "dialog": {
+        "title": "步骤：八",
+        "description": "请选中第二个选项"
+      },
+      "condition": { "type": "toggle_index", "params": { "index": 1 } }
+    },
+    {
+      "target": "ViewGuideDemo>PageView",
+      "dialog": {
+        "title": "步骤：九",
+        "description": "请滑动到第二个分页"
+      },
+      "condition": { "type": "page_index", "params": { "index": 1 } }
     }
   ]
 }

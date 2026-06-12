@@ -8729,9 +8729,12 @@
     },
     "_bindingType": "ItemModel",
     "_bindingName": "modelList",
-    "template": {
-      "__id__": 361
-    },
+    "templates": [
+      {
+        "__id__": 361
+      }
+    ],
+    "_templateField": "",
     "_isSelected": true,
     "clearSelectedOnDelete": true,
     "_bindingSelectedName": "modelItem",

@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "67ff7272-cac4-4a7a-94ed-729363dea15a",
+  "uuid": "36660237-8b28-484e-9a3a-26f7458aa6ee",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "Click"
+    "syncNodeName": "GuideDialog"
   }
 }

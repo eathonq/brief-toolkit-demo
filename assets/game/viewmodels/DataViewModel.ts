@@ -52,7 +52,7 @@ export class ItemModel {
 }
 
 @vm("DataViewModel")
-export class DataViewModel implements mvvm.IViewModel {
+export class DataViewModel extends mvvm.BaseViewModel {
   @prop
   strData = "BindingViewModel";
 
