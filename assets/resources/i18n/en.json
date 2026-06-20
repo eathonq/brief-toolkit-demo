@@ -28,7 +28,7 @@
     "time": "HH:mm"
   },
   "image": {
-    "home": "home",
-    "start": "start"
+    "home": "i18n/en/home",
+    "start": "i18n/en/start"
   }
 }

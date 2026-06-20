@@ -6,9 +6,9 @@
     "version": "1.0.0"
   },
   "common": {
-    "confirm": "Confirm",
-    "cancel": "Cancel",
-    "loading": "Loading..."
+    "confirm": "确认",
+    "cancel": "取消",
+    "loading": "加载中..."
   },
   "menu": {
     "home": "首页",
@@ -28,7 +28,7 @@
     "time": "HH:mm"
   },
   "image": {
-    "home": "home",
-    "start": "start"
+    "home": "i18n/zh/home",
+    "start": "i18n/zh/start"
   }
 }
